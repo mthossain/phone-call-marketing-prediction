@@ -1,5 +1,5 @@
 # Phone Call Marketing Campaign Prediction using Classification
-The main goal of this portfolio is using Classifications. The data is related to direct marketing campaigns (Phone Calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit.
+The main goal of this portfolio is using Classifications. The data is related to direct marketing campaigns (Phone Calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit.
 
 # Outcome
 * Using Ordinal Encoder to convert categorical features to integers and apply the Gaussian Naive Bayes and Multinomial Naive Bayes to find out their Accuracy and Area Under the Curve on train and test sets.
